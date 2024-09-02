@@ -1,2 +1,2 @@
-# Sneakers backend
-A backend service for sneakers - a mobile app for commencing sneakers of all kind
+# Sneakx backend
+A backend service for sneakx - a mobile app for commencing sneakers of all kind
